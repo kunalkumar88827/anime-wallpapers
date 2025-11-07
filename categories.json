@@ -1,10 +1,4 @@
 [
-  {
-    "name": "Radha Krishna Wallpaper",
-    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4HXWrllbtJxmlrVFX84pUp8BzXG5SND_MkXtWTurwDvYvZY1swigcrzjunbcWeWTSGUIFRvS8We-s-RqEkemTPSEP4vCmG7hIPWkdytHkcahh3jnu3YYt2u_J25H732fXqJcIQNObtT7tMiLWIWX-wKp85RX_P7AdNr3P6sa8rDzh9LEUHGherGAlRrKi/s1308/1.jpg"
-  },
-  {
-    "name": "Shiv Parvati Wallpaper",
-    "url": "https://blogger.googleusercontent.com/xyz456.jpg"
-  }
+  { "name": "Action", "folder": "wallpapers/action" },
+  { "name": "Fantasy", "folder": "wallpapers/fantasy" }
 ]
