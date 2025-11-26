@@ -1,6 +1,6 @@
 [
-  { "name": "Naruto", "folder": "wallpapers/Goku" },
-    { "name": "Goku", "folder": "wallpapers/Naruto" },
+  { "name": "Naruto", "folder": "wallpapers/Naruto" },
+    { "name": "Goku", "folder": "wallpapers/Goku" },
       { "name": "Itachi", "folder": "wallpapers/Itachi" },
   { "name": "OnePiece", "folder": "wallpapers/OnePiece" }
 ]
