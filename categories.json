@@ -1,6 +1,12 @@
 [
   { "name": "Naruto", "folder": "wallpapers/Naruto" },
-    { "name": "Goku", "folder": "wallpapers/Goku" },
+    { "name": "Dragon Ball Z", "folder": "wallpapers/Goku" },
       { "name": "Itachi", "folder": "wallpapers/Itachi" },
-  { "name": "OnePiece", "folder": "wallpapers/OnePiece" }
+  { "name": "OnePiece", "folder": "wallpapers/OnePiece" },
+        { "name": "Demon Slayer", "folder": "wallpapers/Demon Slayer" },
+      { "name": "Death Note", "folder": "wallpapers/Death Note" },
+      { "name": "Ben 10", "folder": "wallpapers/Ben 10" },
+      { "name": "One Punch Man", "folder": "wallpapers/One Punch Man" },
+      { "name": "Attack on Titan", "folder": "wallpapers/Attack on Titan" },
+      { "name": "Pokemon", "folder": "wallpapers/Pokemon" }
 ]
